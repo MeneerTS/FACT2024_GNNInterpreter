@@ -5,7 +5,7 @@ This repo contains the official implementation for the reproducibility study con
 ## Structure of the repository
 The repository is organized in 2 main folders, namely:
 - `GNNInterpreter-Initial-Version` = contains the earlierst version of the authors original repository (https://github.com/yolandalalala/GNNInterpreter/commit/a419343d0de20674e14cd1051b7983981cf6b47c)
-- `GNNInterpreter-Most-Recent-Version` = contains the latest updated on the authors original repository (https://github.com/yolandalalala/GNNInterpreter/tree/main)
+- `GNNInterpreter-Most-Recent-Version` = contains the latest updated on the authors original repository as of januari 2024 (https://github.com/yolandalalala/GNNInterpreter/tree/main)
 
 Inside GNN-Interpreter-Initial-Version, a stripped version of the XGNN original repository can be found, in the XGNN_stripped_repo folder ([XGNN paper](https://arxiv.org/abs/2006.02587), [XGNN repository](https://github.com/divelab/DIG/tree/main/dig/xgraph/XGNN)).
 
